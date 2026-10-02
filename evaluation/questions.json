@@ -1,0 +1,70 @@
+[
+  {
+    "id": "Q1",
+    "type": "정답이 명확한 질문",
+    "question": "소선암자연휴양림의 입실과 퇴실 시간은 언제인가?",
+    "expected_source": "soseonam__general__2026-10-02.md",
+    "filters": {"site": "soseonam"}
+  },
+  {
+    "id": "Q2",
+    "type": "표현이 다른 질문",
+    "question": "소선암 숙소에는 몇 시부터 들어갈 수 있나?",
+    "expected_source": "soseonam__general__2026-10-02.md",
+    "filters": {"site": "soseonam"}
+  },
+  {
+    "id": "Q3",
+    "type": "정확한 키워드 질문",
+    "question": "2026년 국립자연휴양림 주말 추첨제 신청 기간은 언제인가?",
+    "expected_source": "national__reservation__2026-10-02.md",
+    "filters": {"site": "national"}
+  },
+  {
+    "id": "Q4",
+    "type": "시설·시간 질문",
+    "question": "화담숲 운영시간과 입장 마감시간은 언제인가?",
+    "expected_source": "hwadamsup__general__2026-10-02.md",
+    "filters": {"site": "hwadamsup"}
+  },
+  {
+    "id": "Q5",
+    "type": "복합 질문",
+    "question": "문수산자연휴양림의 비수기 주중과 주말 취소·환불 기준을 비교해 달라.",
+    "expected_source": "munsusan__refund__2026-10-02.md",
+    "filters": {"site": "munsusan"}
+  },
+  {
+    "id": "Q6",
+    "type": "날짜 조건 질문",
+    "question": "문수산자연휴양림 성수기에 이용일 2일 전 취소하면 얼마가 공제되는가?",
+    "expected_source": "munsusan__refund__2026-10-02.md",
+    "filters": {"site": "munsusan"}
+  },
+  {
+    "id": "Q7",
+    "type": "시설별 질문",
+    "question": "국립자연휴양림 반려견 동반 시설에 입장할 때 필요한 조건은 무엇인가?",
+    "expected_source": "national__pet__2026-10-02.md",
+    "filters": {"site": "national"}
+  },
+  {
+    "id": "Q8",
+    "type": "범위 충돌 질문",
+    "question": "국립 반려견 FAQ를 보고 화담숲에도 반려견을 데려갈 수 있다고 답해도 되는가?",
+    "expected_source": "hwadamsup__general__2026-10-02.md",
+    "filters": {"site": "hwadamsup"}
+  },
+  {
+    "id": "Q9",
+    "type": "문서에 없는 질문",
+    "question": "인근 맛집을 추천해 달라.",
+    "expected_source": ""
+  },
+  {
+    "id": "Q10",
+    "type": "근거 부족 질문",
+    "question": "최신 실시간 잔여 객실 수를 알려 달라.",
+    "expected_source": ""
+  }
+]

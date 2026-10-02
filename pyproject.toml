@@ -1,0 +1,9 @@
+[project]
+name = "forest-guide-rag"
+version = "0.1.0"
+description = "공식 자연휴양림 문서 기반 Dense/Hybrid RAG 실습"
+requires-python = ">=3.10"
+dependencies = ["openai>=2,<3"]
+
+[tool.setuptools]
+packages = ["src"]
